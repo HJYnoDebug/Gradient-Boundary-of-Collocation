@@ -49,20 +49,4 @@ $$\Delta P = \log P(\text{canonical solution}) - \log P(\text{erroneous problem}
 - **AUC**: 1.0000 (Perfect linear separability at scale).
 - **Optimal Threshold**: 0.6225 (Indicates a required margin for confident classification).
 
----
-
-## 📂 Repository Structure & Usage
-
-### Structure
-```text
-├── data/
-│   └── analysis_summary.csv   # Processed results from all 7 models
-├── src/
-│   ├── probe.py               # Logic for extracting log-probs via API
-│   └── scaling_plot.py        # Script to generate Scaling Law visualizations
-├── results/
-│   ├── margin_density.png     # Distribution of Delta P
-│   └── roc_curve.png          # ROC analysis results
-└── paper/
-    └── manuscript.tex         # ACL format LaTeX source
 
