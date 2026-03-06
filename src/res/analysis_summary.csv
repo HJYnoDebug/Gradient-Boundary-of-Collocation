@@ -1,0 +1,64 @@
+model,type,accuracy,precision,recall,f1,n_samples
+deepseek_deepseek-chat,OVERALL,0.9864864864864865,0.9886363636363636,0.9830508474576272,0.9858356940509915,370
+deepseek_deepseek-chat, ing & to,1.0,1.0,1.0,1.0,53
+deepseek_deepseek-chat,article,1.0,1.0,1.0,1.0,10
+deepseek_deepseek-chat,formality,1.0,1.0,1.0,1.0,37
+deepseek_deepseek-chat,infinitive,1.0,0.0,0.0,0.0,2
+deepseek_deepseek-chat,lexical,1.0,1.0,1.0,1.0,26
+deepseek_deepseek-chat,preposition,0.9725274725274725,0.9801980198019802,0.9705882352941176,0.9753694581280788,182
+deepseek_deepseek-chat,"preposition, article",1.0,0.0,0.0,0.0,1
+deepseek_deepseek-chat,singular & plural,1.0,1.0,1.0,1.0,59
+meta-llama_llama-3.1-8b-instruct,OVERALL,0.8054054054054054,0.7108433734939759,1.0,0.8309859154929577,370
+meta-llama_llama-3.1-8b-instruct, ing & to,0.8867924528301887,0.76,1.0,0.8636363636363636,53
+meta-llama_llama-3.1-8b-instruct,article,0.7,0.6666666666666666,1.0,0.8,10
+meta-llama_llama-3.1-8b-instruct,formality,0.5135135135135135,0.5135135135135135,1.0,0.6785714285714286,37
+meta-llama_llama-3.1-8b-instruct,infinitive,1.0,0.0,0.0,0.0,2
+meta-llama_llama-3.1-8b-instruct,lexical,0.8846153846153846,0.8125,1.0,0.896551724137931,26
+meta-llama_llama-3.1-8b-instruct,preposition,0.8736263736263736,0.816,1.0,0.8986784140969163,182
+meta-llama_llama-3.1-8b-instruct,"preposition, article",1.0,0.0,0.0,0.0,1
+meta-llama_llama-3.1-8b-instruct,singular & plural,0.6779661016949152,0.4864864864864865,1.0,0.6545454545454545,59
+meta-llama_llama-3.2-3b-instruct,OVERALL,0.7945945945945946,0.6996047430830039,1.0,0.8232558139534883,370
+meta-llama_llama-3.2-3b-instruct, ing & to,0.5849056603773585,0.4634146341463415,1.0,0.6333333333333333,53
+meta-llama_llama-3.2-3b-instruct,article,0.9,0.8571428571428571,1.0,0.9230769230769231,10
+meta-llama_llama-3.2-3b-instruct,formality,0.7027027027027027,0.6333333333333333,1.0,0.7755102040816326,37
+meta-llama_llama-3.2-3b-instruct,infinitive,0.5,0.0,0.0,0.0,2
+meta-llama_llama-3.2-3b-instruct,lexical,0.8846153846153846,0.8125,1.0,0.896551724137931,26
+meta-llama_llama-3.2-3b-instruct,preposition,0.8571428571428571,0.796875,1.0,0.8869565217391304,182
+meta-llama_llama-3.2-3b-instruct,"preposition, article",1.0,0.0,0.0,0.0,1
+meta-llama_llama-3.2-3b-instruct,singular & plural,0.7966101694915254,0.6,1.0,0.75,59
+meta-llama_llama-3.3-70b-instruct,OVERALL,0.9702702702702702,0.9715909090909091,0.9661016949152542,0.9688385269121813,370
+meta-llama_llama-3.3-70b-instruct, ing & to,1.0,1.0,1.0,1.0,53
+meta-llama_llama-3.3-70b-instruct,article,1.0,1.0,1.0,1.0,10
+meta-llama_llama-3.3-70b-instruct,formality,0.9459459459459459,0.9473684210526315,0.9473684210526315,0.9473684210526315,37
+meta-llama_llama-3.3-70b-instruct,infinitive,1.0,0.0,0.0,0.0,2
+meta-llama_llama-3.3-70b-instruct,lexical,1.0,1.0,1.0,1.0,26
+meta-llama_llama-3.3-70b-instruct,preposition,0.9560439560439561,0.97,0.9509803921568627,0.9603960396039604,182
+meta-llama_llama-3.3-70b-instruct,"preposition, article",1.0,0.0,0.0,0.0,1
+meta-llama_llama-3.3-70b-instruct,singular & plural,0.9830508474576272,0.9473684210526315,1.0,0.972972972972973,59
+mistralai_mistral-medium-3.1,OVERALL,0.981081081081081,0.9722222222222222,0.9887005649717514,0.9803921568627451,370
+mistralai_mistral-medium-3.1, ing & to,1.0,1.0,1.0,1.0,53
+mistralai_mistral-medium-3.1,article,1.0,1.0,1.0,1.0,10
+mistralai_mistral-medium-3.1,formality,1.0,1.0,1.0,1.0,37
+mistralai_mistral-medium-3.1,infinitive,1.0,0.0,0.0,0.0,2
+mistralai_mistral-medium-3.1,lexical,1.0,1.0,1.0,1.0,26
+mistralai_mistral-medium-3.1,preposition,0.967032967032967,0.9615384615384616,0.9803921568627451,0.970873786407767,182
+mistralai_mistral-medium-3.1,"preposition, article",1.0,0.0,0.0,0.0,1
+mistralai_mistral-medium-3.1,singular & plural,0.9830508474576272,0.9473684210526315,1.0,0.972972972972973,59
+openai_gpt-4o-mini,OVERALL,0.9837837837837838,0.9723756906077348,0.9943502824858758,0.9832402234636871,370
+openai_gpt-4o-mini, ing & to,1.0,1.0,1.0,1.0,53
+openai_gpt-4o-mini,article,1.0,1.0,1.0,1.0,10
+openai_gpt-4o-mini,formality,1.0,1.0,1.0,1.0,37
+openai_gpt-4o-mini,infinitive,1.0,0.0,0.0,0.0,2
+openai_gpt-4o-mini,lexical,1.0,1.0,1.0,1.0,26
+openai_gpt-4o-mini,preposition,0.9725274725274725,0.9619047619047619,0.9901960784313726,0.9758454106280193,182
+openai_gpt-4o-mini,"preposition, article",1.0,0.0,0.0,0.0,1
+openai_gpt-4o-mini,singular & plural,0.9830508474576272,0.9473684210526315,1.0,0.972972972972973,59
+openai_gpt-4o,OVERALL,0.981081081081081,0.9722222222222222,0.9887005649717514,0.9803921568627451,370
+openai_gpt-4o, ing & to,1.0,1.0,1.0,1.0,53
+openai_gpt-4o,article,1.0,1.0,1.0,1.0,10
+openai_gpt-4o,formality,1.0,1.0,1.0,1.0,37
+openai_gpt-4o,infinitive,1.0,0.0,0.0,0.0,2
+openai_gpt-4o,lexical,1.0,1.0,1.0,1.0,26
+openai_gpt-4o,preposition,0.967032967032967,0.9615384615384616,0.9803921568627451,0.970873786407767,182
+openai_gpt-4o,"preposition, article",1.0,0.0,0.0,0.0,1
+openai_gpt-4o,singular & plural,0.9830508474576272,0.9473684210526315,1.0,0.972972972972973,59

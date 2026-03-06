@@ -1,0 +1,371 @@
+﻿original_index,type,node,option_a,option_b,ground_truth,model_choice,is_correct,status
+2,preposition,beginning,at the beginning of this,in the beginning of this,A,A,1,success
+6,preposition,end,at the end of the,in the end of the,A,A,1,success
+9,preposition,end,at the end of a,in the end of a,A,A,1,success
+5,preposition,end,at the end,in the end,B,A,0,success
+4,preposition,beginning,in the beginning of a,at the beginning of a,B,A,0,success
+1,preposition,beginning,at the beginning of the,in the beginning of the,A,A,1,success
+7,preposition,end,at the end of this,in the end of this,A,A,1,success
+0,preposition,beginning,at the beginning,in the beginning,B,A,0,success
+3,preposition,beginning,at the beginning of each,in the beginning of each,A,A,1,success
+8,preposition,end,at the end of each,in the end of each,A,A,1,success
+10,article,half,more than half of,more than a half of,A,A,1,success
+12,article,half,over half of,over a half of,A,A,1,success
+11,article,half,less than a half of,less than half of,B,A,0,success
+15,article,half,only a half of,only half of,B,B,1,success
+16,article,half,half of the total,the half of the total,A,A,1,success
+13,article,half,almost half of,almost a half of,A,A,1,success
+25,preposition,same,the same as those,the same than those,A,A,1,success
+17,article,half,the half of the world,half of the world,B,B,1,success
+18,article,half,the half of the participants,half of the participants,B,B,1,success
+14,article,half,nearly half of,nearly a half of,A,A,1,success
+22,preposition,hand,in the other hand,on the other hand,B,B,1,success
+24,preposition,same,the same as that,the same than that,A,A,1,success
+19,"preposition, article",hand,in one hand,on the one hand,B,B,1,success
+21,preposition,hand,in the on hand,on the one hand,B,B,1,success
+27,formality,do,do research,conduct research,B,B,1,success
+31,formality,bit,a bit complex,rather complex,B,A,0,success
+33,formality,bit,somewhat misleading,a bit misleading,A,A,1,success
+29,formality,bit,rather different,a bit different,A,A,1,success
+26,preposition,same,the same than in,the same as in,B,B,1,success
+28,formality,do,do projects,undertake projects,B,B,1,success
+20,article,hand,on the one hand,on one hand,A,A,1,success
+30,formality,bit,rather small,a bit small,A,A,1,success
+32,formality,bit,a bit similar,somewhat similar,B,A,0,success
+23,preposition,same,the same as the,the same than the,A,A,1,success
+34,formality,bit,somewhat surprising,a bit surprising,A,A,1,success
+35,formality,lot,a lot more,much more,B,A,0,success
+38,formality,lot,much higher,a lot higher,A,A,1,success
+36,formality,lot,a lot larger,much larger,B,A,0,success
+37,formality,lot,much greater,a lot greater,A,A,1,success
+44,formality,lot,a lot of ways,many ways,B,A,0,success
+42,formality,lot,a lot of people,many people,B,B,1,success
+39,formality,lot,a lot less,much less,B,A,0,success
+45,formality,lot,a lot of different,many different,B,B,1,success
+47,formality,lot,a lot of work,much work,B,A,0,success
+46,formality,lot,much research,a lot of research,A,A,1,success
+41,formality,lot,much lower,a lot lower,A,A,1,success
+52,formality,till,till recently,until recently,B,B,1,success
+49,formality,till,until the,till the,A,A,1,success
+50,formality,till,till they,until they,B,A,0,success
+48,formality,lot,a lot of attention,much attention,B,A,0,success
+43,formality,lot,many cases,a lot of cases,A,A,1,success
+40,formality,lot,a lot smaller,much smaller,B,B,1,success
+54,formality,till,until after,till after,A,A,1,success
+53,formality,till,until now,till now,A,A,1,success
+56, ing & to,ability,ability of using,ability to use,B,A,0,success
+57, ing & to,ability,ability to make,ability of making,A,A,1,success
+58, ing & to,ability,ability to control,ability of controlling,A,A,1,success
+51,formality,till,until it,till it,A,A,1,success
+60, ing & to,ability,ability to provide,ability of providing,A,A,1,success
+61, ing & to,afford,afford paying,afford to pay,B,A,0,success
+63, ing & to,afford,afford to ignore,afford ignoring,A,A,1,success
+59, ing & to,ability,ability to be,ability of being,A,A,1,success
+68, ing & to,contribute,contribute to improving,contribute to improve,A,A,1,success
+65, ing & to,avoid,avoid being,avoid to be,A,A,1,success
+55, ing & to,ability,ability of producing,ability to produce,B,A,0,success
+66, ing & to,avoid,avoid to use,avoid using,B,B,1,success
+69, ing & to,contribute,contribute to understand,contribute to understanding,B,B,1,success
+71, ing & to,contribute,contribute to reduce,contribute to reducing,B,A,0,success
+73, ing & to,possibility,possibility to be,possibility of being,B,A,0,success
+76, ing & to,possibility,possibility of developing,possibility to develop,A,A,1,success
+75, ing & to,possibility,possibility of having,possibility to have,A,A,1,success
+77, ing & to,right,right of having,right to have,B,A,0,success
+74, ing & to,possibility,possibility to make,possibility of making,B,A,0,success
+64, ing & to,afford,afford to lose,afford losing,A,A,1,success
+80, ing & to,right,right to participate,right of participating,A,A,1,success
+67, ing & to,avoid,avoid making,avoid to make,A,A,1,success
+70, ing & to,contribute,contribute to strengthen,contribute to strengthening,B,A,0,success
+72, ing & to,possibility,possibility of using,possibility to use,A,A,1,success
+79, ing & to,right,right of making,right to make,B,A,0,success
+78, ing & to,right,right of using,right to use,B,B,1,success
+83, ing & to,risk,risk losing,risk to lose,A,A,1,success
+81, ing & to,right,right of working,right to work,B,B,1,success
+82, ing & to,risk,risk to be,risk being,B,A,0,success
+84, ing & to,spend,spent to work,spent working,B,A,0,success
+90, ing & to,stop,stop to do,stop doing,B,A,0,success
+88, ing & to,stop,stop to work,stop working,B,A,0,success
+91, ing & to,suggest,suggest using,suggest to use,A,A,1,success
+87, ing & to,spend,spent to wait for,spent waiting for,B,A,0,success
+89, ing & to,stop,stop to use,stop using,B,A,0,success
+92, ing & to,suggest,suggest to adopt,suggest adopting,B,A,0,success
+85, ing & to,spend,spent to watch,spent watching,B,A,0,success
+86, ing & to,spend,spent to look for,spent looking for,B,A,0,success
+94, ing & to,tendency,tendency to be,tendency of being,A,A,1,success
+99, ing & to,think,think about trying,think to try,A,A,1,success
+100, ing & to,think,think to use,think about using,B,B,1,success
+95, ing & to,tendency,tendency of using,tendency to use,B,A,0,success
+97, ing & to,tendency,tendency of forming,tendency to form,B,A,0,success
+96, ing & to,tendency,tendency of seeing,tendency to see,B,A,0,success
+98, ing & to,think,think about quitting,think to quit,A,A,1,success
+93, ing & to,suggest,suggest to add,suggest adding,B,B,1,success
+102, ing & to,worth,worth to consider,worth considering,B,B,1,success
+108,preposition,agree,agree the view that,agree with the view that,B,B,1,success
+105, ing & to,worth,worth pointing out,worth to point out,A,A,1,success
+103, ing & to,worth,worth to mention,worth mentioning,B,B,1,success
+104, ing & to,worth,worth to remember,worth remembering,B,B,1,success
+111,preposition,agree,agree to the idea,agree with the idea,B,B,1,success
+110,preposition,agree,agree with this conclusion,agree to this conclusion,A,A,1,success
+112,preposition,arrive,arrive at a conclusion,arrive to a conclusion,A,A,1,success
+106, ing & to,worth,worth to emphasize,worth emphasizing,B,B,1,success
+107, ing & to,worth,worth to explore,worth exploring,B,B,1,success
+109,preposition,agree,agree with the statement,agree the statement,A,A,1,success
+113,preposition,arrive,arrive at a decision,arrive to a decision,A,A,1,success
+116,preposition,ask,ask to students,ask students,B,B,1,success
+118,preposition,based,based on previous,based in previous,A,A,1,success
+119,preposition,based,based in evidence,based on evidence,B,B,1,success
+122,preposition,change,change of price,change in price,B,B,1,success
+120,preposition,change,change of the rate,change in the rate,B,B,1,success
+115,preposition,ask,ask participants,ask to participants,A,A,1,success
+114,preposition,ask,ask users,ask to users,A,A,1,success
+117,preposition,based,based on data,based in data,A,A,1,success
+121,preposition,change,change in behaviour,change of behaviour,A,A,1,success
+123,preposition,change,change in level,change of level,A,A,1,success
+128,preposition,control,take control over,take control of,B,A,0,success
+131,preposition,decrease,a decrease in size,a decrease of size,A,A,1,success
+132,preposition,decrease,a decrease in frequency,a decrease of frequency,A,A,1,success
+124,preposition,change,change in temperature,change of temperature,A,A,1,success
+129,preposition,control,exercise control of,exercise control over,B,A,0,success
+127,preposition,control,lose control over,lose control of,B,A,0,success
+126,preposition,change,change of circumstances,change in circumstances,A,A,1,success
+125,preposition,change,change in state,change of state,B,A,0,success
+130,preposition,control,exert control of,exert control over,B,A,0,success
+138,preposition,depend,depend on the factor,depend of the factor,A,A,1,success
+135,preposition,depend,depend of the nature,depend on the nature,B,B,1,success
+134,preposition,decrease,a decrease of number,a decrease in number,B,B,1,success
+133,preposition,decrease,a decrease of activity,a decrease in activity,B,B,1,success
+136,preposition,depend,depend of the type,depend on the type,B,B,1,success
+137,preposition,depend,depend of the number,depend on the number,B,B,1,success
+141,preposition,dependent,dependent on the factor,dependent of the factor,A,A,1,success
+139,preposition,depend,depend of the size,depend on the size,B,B,1,success
+140,preposition,depend,depend on the condition,depend of the condition,A,A,1,success
+142,preposition,dependent,dependent on the size,dependent of the size,A,A,1,success
+149,preposition,despite,despite the increase,despite of the increase,A,A,1,success
+148,preposition,despite,despite of efforts,despite efforts,B,B,1,success
+144,preposition,dependent,dependent on the condition,dependent of the condition,A,A,1,success
+151,preposition,difference,difference of rate,difference in rate,B,B,1,success
+143,preposition,dependent,dependent on the context,dependent of the context,A,A,1,success
+146,preposition,dependent,dependent on the level,dependent of the level,A,A,1,success
+145,preposition,dependent,dependent on the number,dependent of the number,A,A,1,success
+147,preposition,despite,despite the differences,despite of the differences,A,A,1,success
+153,preposition,difference,difference in behaviour,difference of behaviour,A,A,1,success
+150,preposition,despite,despite of the limitations,despite the limitations,B,B,1,success
+155,preposition,difference,difference in structure,difference of structure,A,A,1,success
+156,preposition,difference,difference in number,difference of number,A,A,1,success
+157,preposition,discuss,discuss about the issue,discuss the issue,B,B,1,success
+161,preposition,discuss,discuss the results,discuss about the results,A,A,1,success
+152,preposition,difference,difference in level,difference of level,A,A,1,success
+158,preposition,discuss,discuss the problem,discuss about the problem,A,A,1,success
+159,preposition,discuss,discuss the case,discuss about the case,A,A,1,success
+154,preposition,difference,difference in size,difference of size,A,A,1,success
+160,preposition,discuss,discuss about the implications,discuss the implications,B,A,0,success
+163,preposition,divided,divided into sections,divided in sections,A,A,1,success
+164,preposition,divided,divided in parts,divided into parts,B,B,1,success
+166,preposition,divided,divided into two,divided in two,A,A,1,success
+167,preposition,emphasize,emphasize the importance,emphasize on the importance,A,A,1,success
+171,preposition,enter,enter the country,enter into the country,A,A,1,success
+165,preposition,divided,divided into categories,divided in categories,A,A,1,success
+172,preposition,enter,enter into a new phase,enter the a new phase,B,A,0,success
+162,preposition,divided,divided into groups,divided in groups,A,A,1,success
+169,preposition,emphasize,emphasize on the need,emphasize the need,B,B,1,success
+168,preposition,emphasize,emphasize the role,emphasize on the role,A,A,1,success
+170,preposition,enter,enter the market,enter into the market,A,A,1,success
+176,preposition,harmful,harmful to children,harmful for children,A,A,1,success
+174,preposition,harmful,harmful to health,harmful for health,A,A,1,success
+173,preposition,enter,enter into the final stage,enter the final stage,B,A,0,success
+178,preposition,increase,increase in the rate of,increase of the rate of,A,A,1,success
+179,preposition,increase,increase of the level of,increase in the level of,B,B,1,success
+175,preposition,harmful,harmful to the environment,harmful for the environment,A,A,1,success
+180,preposition,increase,increase of demand,increase in demand,B,B,1,success
+177,preposition,increase,increase in the number of,increase of the number of,A,A,1,success
+181,preposition,increase,increase of price,increase in price,B,B,1,success
+182,preposition,increase,increase of temperature,increase in temperature,B,B,1,success
+184,preposition,independent,independent of one another,independent from one another,A,A,1,success
+62, ing & to,afford,afford buying,afford to buy,B,A,0,success
+191,preposition,interest,interest for how,interest in how,B,B,1,success
+188,preposition,interest,interest in a,interest for a,A,A,1,success
+185,preposition,independent,independent of size,independent from size,A,A,1,success
+183,preposition,independent,independent of each other,independent from each other,A,A,1,success
+193,preposition,interest,interest for understanding,interest in understanding,B,B,1,success
+189,preposition,interest,interest in this,interest for this,A,A,1,success
+187,preposition,interest,interest for the,interest in the,B,B,1,success
+192,preposition,interest,interest in whether,interest for whether,A,A,1,success
+186,preposition,independent,independent from those factors,independent of those factors,B,B,1,success
+190,preposition,interest,interest in what,interest for what,A,A,1,success
+194,preposition,interest,interest in developing,interest for developing,A,A,1,success
+197,preposition,knowledge,knowledge in how,knowledge of how,B,B,1,success
+198,preposition,knowledge,knowledge of this,knowledge on this,A,A,1,success
+202,infinitive,make,make it to appear,make it appear,B,A,0,success
+201,preposition,make,make it feel,make them to feel,A,A,1,success
+204,preposition,need,the need for,the need of,A,A,1,success
+196,preposition,knowledge,knowledge in a,knowledge of a,B,B,1,success
+195,preposition,knowledge,knowledge in the,knowledge of the,B,B,1,success
+200,preposition,knowledge,knowledge of what,knowledge on what,A,A,1,success
+199,preposition,knowledge,knowledge of their,knowledge on their,A,A,1,success
+203,infinitive,make,make it to seem,make it seem,B,B,1,success
+206,preposition,need,no need for,no need of,A,A,1,success
+211,preposition,provide,provide people information,provide people with information,B,B,1,success
+208,preposition,need,in need for,in need of,B,B,1,success
+213,preposition,reason,reason for this,reason of this,A,A,1,success
+214,preposition,reason,reason of the,reason for the,B,B,1,success
+212,preposition,provide,provide it with more,provides it more,A,A,1,success
+205,preposition,need,a need of,a need for,B,A,0,success
+207,preposition,need,an urgent need of,an urgent need for,B,A,0,success
+217,preposition,reason,reason for not,reason of not,A,A,1,success
+210,preposition,provide,provides them the,provides them with the,B,B,1,success
+215,preposition,reason,reason for their,reason of their,A,A,1,success
+209,preposition,provide,provide us a,provide us with a,B,B,1,success
+220,preposition,regarding,regarding their,regarding to their,A,A,1,success
+216,preposition,reason,reason of a,reason for a,B,A,0,success
+219,preposition,regarding,regarding the,regarding to the,A,A,1,success
+221,preposition,regarding,regarding a,regarding to a,A,A,1,success
+227,preposition,attend,attend to meetings,attend meetings,B,A,0,success
+224,preposition,regarding,regarding its,regarding to its,A,A,1,success
+226,preposition,attend,attend to school,attend school,B,A,0,success
+222,preposition,regarding,regarding to how,regarding how,B,B,1,success
+228,preposition,attend,attend to sessions,attend sessions,B,A,0,success
+225,preposition,regarding,regarding to whether,regarding whether,B,A,0,success
+101, ing & to,worth,worth to note,worth noting,B,B,1,success
+218,preposition,reason,reason why,reason for why,A,A,1,success
+223,preposition,regarding,regarding to what,regarding what,B,B,1,success
+232,preposition,opposite,the opposite of the,the opposite to the,A,A,1,success
+230,preposition,answer,to answer the questionnaire,to answer to the questionnaire,A,A,1,success
+238,preposition,reach,reach to a decision,reach a decision,B,B,1,success
+233,preposition,opposite,the opposite to what,the opposite of what,B,A,0,success
+234,preposition,opposite,the exact opposite of,the exact opposite to,A,A,1,success
+237,preposition,reach,reach an agreement,reach to an agreement,A,A,1,success
+236,preposition,reach,reach a level,reach to a level,A,A,1,success
+235,preposition,reach,reach a conclusion,reach to a conclusion,A,A,1,success
+241,preposition,lack,to lack resources,to lack of resources,A,A,1,success
+240,preposition,lack,to lack of the capacity,to lack the capacity,B,A,0,success
+247,preposition,related,related with this,related to this,B,B,1,success
+231,preposition,answer,answering questions,answering to questions,A,A,1,success
+243,preposition,lack,to lack of the ability,to lack the ability,B,A,0,success
+249,preposition,responsible,responsible of the,responsible for the,B,B,1,success
+244,preposition,related,related with the,realted to the,B,A,0,success
+242,preposition,lack,to lack the power,to lack of the power,A,A,1,success
+246,preposition,related,related to their,related with their,A,A,1,success
+251,preposition,responsible,responsible for the,responsible by the,A,A,1,success
+255,preposition,similar,similar to those,similar as those,A,A,1,success
+257,preposition,recommend,recommend you,recommend to you,A,A,1,success
+239,preposition,reach,reach a point,reach to a point,A,A,1,success
+254,preposition,similar,similar as that,similar to that,B,B,1,success
+245,preposition,related,realted to a,related with a,A,A,1,success
+252,preposition,responsible,responsible by this,responsible for this,B,B,1,success
+250,preposition,responsible,responsible for ensuring,responsible of ensuring,A,A,1,success
+256,preposition,similar,similar as each other,similar to each other,B,B,1,success
+253,preposition,responsible,responsible by what,responsible for what,B,B,1,success
+258,preposition,recommend,recommend them,recommend to them,A,A,1,success
+267,preposition,spend,spend time on something,spend time in something,A,A,1,success
+266,preposition,spend,spend less on something,spend less in something,A,A,1,success
+259,preposition,recommend,recommend him,recommend to him,A,A,1,success
+265,preposition,spend,spend more in something,spend more on something,B,B,1,success
+263,preposition,solution,solution of the,solution to the,B,A,0,success
+264,preposition,solution,solution of this,solution to this,B,A,0,success
+261,preposition,recommend,recommend to people,recommend people,B,A,0,success
+260,preposition,recommend,recommend her,recommend to her,A,A,1,success
+262,preposition,solution,solution of the problem,solution to the problem,B,A,0,success
+268,preposition,spend,spend money in something,spend money on something,B,B,1,success
+273,preposition,typical,typical for a,typical of a,B,B,1,success
+269,preposition,spend,time spent in something,time spent on something,B,B,1,success
+272,preposition,typical,typical of the,typical for the,A,A,1,success
+270,preposition,stress,to stress the importance,to stress on the importance,A,A,1,success
+271,preposition,stress,to stress on the need,to stress the need,B,B,1,success
+278,singular & plural,advice,seek advices,seek advice,B,B,1,success
+280,singular & plural,advice,practical advice,practical advices,A,A,1,success
+276,singular & plural,advice,give advice,give an advice,A,A,1,success
+277,singular & plural,advice,provide advice,provide advices,A,A,1,success
+279,singular & plural,advice,expert advices,expert advice,B,B,1,success
+281,singular & plural,advice,good advice,good advices,A,A,1,success
+282,singular & plural,criterion,selection criterions,selection criteria,B,B,1,success
+275,preposition,typical,typical for those,typical of those,B,B,1,success
+283,singular & plural,criterion,evaluation criterions,evaluation criteria,B,B,1,success
+287,singular & plural,damage,cause (some) damage,cause a damage,A,A,1,success
+285,singular & plural,criterion,meet the criterions,meet the criteria,B,B,1,success
+288,singular & plural,damage,prevent damages,prevent damage,B,A,0,success
+284,singular & plural,criterion,an important criteria,an important criterion,B,B,1,success
+290,singular & plural,damage,severe damages,severe damage,B,A,0,success
+291,singular & plural,damage,further damage,further damages,A,A,1,success
+293,singular & plural,evidence,a further evidence,further evidence,B,A,0,success
+295,singular & plural,evidence,gather evidence,gather evidences,A,A,1,success
+289,singular & plural,damage,serious damages,serious damage,B,A,0,success
+292,singular & plural,evidence,a clear evidence,clear evidence,B,A,0,success
+297,singular & plural,information,obtain an information,obtain information,B,B,1,success
+299,singular & plural,information,the informations gathered,the information gathered,B,B,1,success
+286,singular & plural,damage,suffer (some) damage,suffer a damage,A,A,1,success
+300,singular & plural,information,relevant informations,relevant information,B,B,1,success
+301,singular & plural,information,detailed information,detailed information,B,A,0,success
+294,singular & plural,evidence,empirical evicences,empirical evidence,B,B,1,success
+296,singular & plural,evidence,the evidences presented,the evidence presented,B,B,1,success
+304,singular & plural,knowledge,a prior knowledges,prior knowledge,B,B,1,success
+303,singular & plural,knowledge,a new knowledge,new knowledge,B,B,1,success
+305,singular & plural,knowledge,scientific knowledges,scientific knowledge,B,B,1,success
+302,singular & plural,information,useful information,a useful information,A,A,1,success
+306,singular & plural,knowledge,gaps in knowledeges,gaps in knowledge,B,B,1,success
+309,singular & plural,person,other persons,other people,B,A,0,success
+311,singular & plural,person,number of persons,number of people,B,B,1,success
+308,singular & plural,person,many persons,many people,B,B,1,success
+312,singular & plural,person,group of persons,group of people,B,B,1,success
+298,singular & plural,information,provide informations,provide (some) information,B,B,1,success
+307,singular & plural,knowledge,knowledge and skills,knowledges and skills,A,A,1,success
+314,singular & plural,person,the majority of persons,the majority of people,B,B,1,success
+310,singular & plural,person,most people,most persons,A,A,1,success
+315,singular & plural,phenomenon,a new phenomenon,a new phenomena,A,A,1,success
+317,singular & plural,phenomenon,a similar phenomenon,a similar phenomena,A,A,1,success
+313,singular & plural,person,% of persons,% of people,B,A,0,success
+318,singular & plural,phenomenon,other phenomena,other phenomenon,A,A,1,success
+316,singular & plural,phenomenon,a complex phenomena,a complex phenomenon,B,B,1,success
+322,singular & plural,progress,measure progresses,measure progress,B,B,1,success
+323,singular & plural,progress,a steady progress,steady progress,B,A,0,success
+320,singular & plural,progress,make progress,make progresses,A,A,1,success
+328,singular & plural,research,recent researches,recent research,B,B,1,success
+326,singular & plural,research,qualitative researches,qualitative research,B,B,1,success
+327,singular & plural,research,future researches,future research,B,B,1,success
+325,singular & plural,progress,considerable progresses,considerable progress,B,B,1,success
+324,singular & plural,progress,a substantial progress,substantial progress,B,B,1,success
+321,singular & plural,progress,achieve good progress,achieve a good progress,A,A,1,success
+319,singular & plural,phenomenon,such phenomenon,such phenomena,B,A,0,success
+335,lexical,dependant,heavily dependant,heavily dependent,B,B,1,success
+337,lexical,dependant,largely dependent,largely dependant,A,A,1,success
+336,lexical,dependant,highly dependent,highly dependant,A,A,1,success
+330,singular & plural,research,research shows that,researches show that,A,A,1,success
+331,singular & plural,trouble,have a trouble,have trouble,B,B,1,success
+332,singular & plural,trouble,cause trouble,cause a trouble,A,A,1,success
+333,singular & plural,trouble,have troubles getting,have trouble getting,B,A,0,success
+334,singular & plural,trouble,have troubles finding,have trouble finding,B,A,0,success
+329,singular & plural,research,conduct researches,conduct research,B,B,1,success
+338,lexical,dependant,entirely dependant,entirely dependent,B,B,1,success
+229,preposition,answer,to answer questions,to answer to questions,A,A,1,success
+339,lexical,dependant,become dependent,become dependant,A,A,1,success
+344,lexical,economical,social and economic,social and economical,A,A,1,success
+347,lexical,economical,economic development,economical development,A,A,1,success
+345,lexical,economical,political and economical,political and economic,B,B,1,success
+343,lexical,accept,accept to pay,agree to pay,B,B,1,success
+342,lexical,accept,accept to take part,agree to take part,B,B,1,success
+341,lexical,accept,agree to participate,accept to participate,A,A,1,success
+349,lexical,effect,affect the behaviour,effect the behaviour,A,A,1,success
+348,lexical,economical,economic activity,economical activity,A,A,1,success
+346,lexical,economical,economic growth,economical growth,A,A,1,success
+350,lexical,effect,effect the outcome,affect the outcome,B,A,0,success
+248,preposition,related,related with its,related to its,B,B,1,success
+354,lexical,effect,negatively effected,negatively affected,B,B,1,success
+355,lexical,less,less people,fewer people,B,B,1,success
+340,lexical,dependant,remain dependant,remain dependent,B,B,1,success
+352,lexical,effect,directly affected,directly effected,A,A,1,success
+359,lexical,less,fewer differences,less differences,A,A,1,success
+357,lexical,less,fewer cases,less cases,A,A,1,success
+358,lexical,less,less hours,fewer hours,B,B,1,success
+353,lexical,effect,significantly affected,significantly effected,A,A,1,success
+351,lexical,effect,adversely effected,adversely affected,B,B,1,success
+360,lexical,less,less options,fewer options,B,A,0,success
+361,formality,be,is not,isn't,A,A,1,success
+365,formality,can,cannot,can't,A,A,1,success
+363,formality,be,aren't,are not,B,A,0,success
+364,formality,be,were not,weren't,A,A,1,success
+356,lexical,less,less resources,fewer resources,B,A,0,success
+368,formality,do,does not,doesn't,A,A,1,success
+367,formality,do,don't,do not,B,A,0,success
+362,formality,be,was  not,wasn't,A,A,1,success
+366,formality,can,could not,couldn't,A,A,1,success
+369,formality,do,didn't,did not,B,B,1,success
+274,preposition,typical,typical for many,typical of many,B,B,1,success
